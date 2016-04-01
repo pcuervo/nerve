@@ -30,7 +30,7 @@ var awd_bordered = false;
 
 ///** CONTACT **/
 
-var awd_contact_email = 'aris@pcuervo.com'; // contact email address
+var awd_contact_email = 'thenervestudio@gmail.com'; // contact email address
 var awd_contact_success = '<i class="icons fa fa-check valid"></i> Message has been sent'; // success submit message
 var awd_contact_input_error = '<i class="icons fa fa-close error"></i> all fields are required'; // input error message
 var awd_contact_email_error = '<i class="icons fa fa-close error"></i> email address is invalid'; // email error message
