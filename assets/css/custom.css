@@ -105,11 +105,11 @@
 
 .bg-services,
 .bg-services nav:before {
-    background-color: #326394;
-    color: #ffffff;
+    background-color: #f1f1f1;
+    color: #252525;
 }
 
 .bg-services *:not(i):not(nav):after,
 .bg-services *:not(i):not(nav):before {
-    background-color: #ffffff;
+    background-color: #252525;
 }
